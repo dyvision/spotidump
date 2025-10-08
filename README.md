@@ -2,7 +2,7 @@
 ## SpotiDump | Backup Your Spotify
 
 ### Before you begin go to https://developer.spotify.com/dashboard
-- Install ffmpeg https://ffmpeg.org/
+- Install [https://ffmpeg.org/](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z)
 - Create a dev account
 - Create an app
 - Fill out the info for the app, make sure redirect urls contains: https://localhost:8888/callback and "Web API" is checked
